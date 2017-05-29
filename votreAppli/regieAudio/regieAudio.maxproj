@@ -2,8 +2,8 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -716671555,
-	"viewrect" : [ 11.0, 114.0, 300.0, 500.0 ],
+	"modificationdate" : -716073222,
+	"viewrect" : [ -13.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -21,15 +21,47 @@
 				"local" : 1
 			}
 ,
-			"ADSR.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"syntheseAudio.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"osc.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"filtrage.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"ADSR.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+
+		}
+,
+		"media" : 		{
+			"VHS.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"BruitageClavier.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"Decompte.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+
+		}
+,
+		"externals" : 		{
 
 		}
 
