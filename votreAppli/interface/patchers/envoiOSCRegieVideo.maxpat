@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 656.0, 324.0, 914.0, 480.0 ],
+		"rect" : [ 762.0, 384.0, 914.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -42,7 +42,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 472.75, 68.5, 218.5, 20.0 ],
+					"patching_rect" : [ 45.5, 68.5, 218.5, 20.0 ],
 					"style" : "",
 					"text" : "Pilotage vidéo \"Voiture avec palmiers\""
 				}
@@ -66,7 +66,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 48.0, 68.5, 213.5, 20.0 ],
+					"patching_rect" : [ 465.0, 68.5, 213.5, 20.0 ],
 					"style" : "",
 					"text" : "Pilotage vidéo \"Caddie dans l'espace\""
 				}
@@ -80,7 +80,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 509.5, 170.0, 24.0, 24.0 ],
+					"patching_rect" : [ 129.5, 170.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
@@ -93,7 +93,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 509.5, 239.0, 155.0, 35.0 ],
+					"patching_rect" : [ 129.5, 239.0, 155.0, 35.0 ],
 					"style" : "",
 					"text" : "/regieVideo/voiturePalmiers/lectureetarret $1"
 				}
@@ -103,12 +103,12 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-10",
-					"index" : 3,
+					"index" : 1,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 509.5, 101.0, 30.0, 30.0 ],
+					"patching_rect" : [ 129.5, 101.0, 30.0, 30.0 ],
 					"style" : ""
 				}
 
@@ -121,7 +121,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 345.5, 170.0, 24.0, 24.0 ],
+					"patching_rect" : [ 525.5, 170.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
@@ -134,7 +134,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 345.5, 239.0, 126.0, 35.0 ],
+					"patching_rect" : [ 525.5, 239.0, 126.0, 35.0 ],
 					"style" : "",
 					"text" : "/regieVideo/cielDigital/lectureetarret $1"
 				}
@@ -144,12 +144,12 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-5",
-					"index" : 2,
+					"index" : 3,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 345.5, 101.0, 30.0, 30.0 ],
+					"patching_rect" : [ 525.5, 101.0, 30.0, 30.0 ],
 					"style" : ""
 				}
 
@@ -162,7 +162,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 175.5, 170.0, 24.0, 24.0 ],
+					"patching_rect" : [ 330.5, 170.0, 24.0, 24.0 ],
 					"style" : ""
 				}
 
@@ -175,7 +175,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 175.5, 239.0, 148.0, 35.0 ],
+					"patching_rect" : [ 330.5, 239.0, 148.0, 35.0 ],
 					"style" : "",
 					"text" : "/regieVideo/caddieEspace/lectureetarret $1"
 				}
@@ -197,12 +197,12 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-3",
-					"index" : 1,
+					"index" : 2,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"patching_rect" : [ 175.5, 101.0, 30.0, 30.0 ],
+					"patching_rect" : [ 330.5, 101.0, 30.0, 30.0 ],
 					"style" : ""
 				}
 

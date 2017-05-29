@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 524.0, 194.0, 1814.0, 697.0 ],
+		"rect" : [ 463.0, 197.0, 1612.0, 857.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,18 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 1106.0, 549.0, 160.0, 22.0 ],
+					"style" : "",
+					"text" : "udpsend 192.168.0.39 7500"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-112",
 					"maxclass" : "comment",
@@ -598,9 +610,9 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1323.0, 454.0, 160.0, 22.0 ],
+					"patching_rect" : [ 1323.0, 454.0, 140.0, 22.0 ],
 					"style" : "",
-					"text" : "udpsend 192.168.0.39 7500"
+					"text" : "udpsend 127.0.0.1 7500"
 				}
 
 			}

@@ -2,7 +2,7 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -716074667,
+	"modificationdate" : -716073235,
 	"viewrect" : [ 393.0, 132.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -21,32 +21,17 @@
 		"media" : 		{
 			"VHS.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/sons",
-					"projectrelativepath" : "../../../../Desktop/sons"
-				}
-
+				"local" : 1
 			}
 ,
 			"BruitageClavier.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop",
-					"projectrelativepath" : "../../../../Desktop"
-				}
-
+				"local" : 1
 			}
 ,
 			"Decompte.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/sons",
-					"projectrelativepath" : "../../../../Desktop/sons"
-				}
-
+				"local" : 1
 			}
 
 		}

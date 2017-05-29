@@ -43,7 +43,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 547.0, 100.5, 89.0, 33.0 ],
+					"patching_rect" : [ 364.0, 100.5, 89.0, 33.0 ],
 					"style" : "",
 					"text" : "vidéo \"Voiture avec palmiers\""
 				}
@@ -56,7 +56,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 470.5, 100.5, 69.0, 33.0 ],
+					"patching_rect" : [ 547.5, 100.5, 69.0, 33.0 ],
 					"style" : "",
 					"text" : "vidéo \"Ciel Digital\""
 				}
@@ -69,7 +69,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 375.5, 100.5, 86.0, 33.0 ],
+					"patching_rect" : [ 455.0, 100.5, 86.0, 33.0 ],
 					"style" : "",
 					"text" : "vidéo \"Caddie dans l'espace\""
 				}

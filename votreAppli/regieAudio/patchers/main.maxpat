@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 220.0, 447.0, 1285.0, 480.0 ],
+		"rect" : [ 356.0, 295.0, 1489.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -261,9 +261,9 @@
 					"numinlets" : 3,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 997.0, 221.5, 229.0, 22.0 ],
+					"patching_rect" : [ 997.0, 221.5, 173.0, 22.0 ],
 					"style" : "",
-					"text" : "lecteurAudio.maxpat BruitageClavier.wav"
+					"text" : "lecteurAudio.maxpat VHS.wav"
 				}
 
 			}
@@ -287,9 +287,9 @@
 					"numinlets" : 3,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "signal" ],
-					"patching_rect" : [ 149.0, 221.5, 173.0, 22.0 ],
+					"patching_rect" : [ 149.0, 221.5, 229.0, 22.0 ],
 					"style" : "",
-					"text" : "lecteurAudio.maxpat VHS.wav"
+					"text" : "lecteurAudio.maxpat BruitageClavier.wav"
 				}
 
 			}
