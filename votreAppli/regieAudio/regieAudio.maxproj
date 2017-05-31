@@ -2,8 +2,13 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
+<<<<<<< HEAD
 	"modificationdate" : -716073235,
 	"viewrect" : [ 393.0, 132.0, 300.0, 500.0 ],
+=======
+	"modificationdate" : -716073222,
+	"viewrect" : [ -13.0, 45.0, 300.0, 500.0 ],
+>>>>>>> I1
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +19,31 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"syntheseSoustractive.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"syntheseAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"osc.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"filtrage.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"ADSR.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
