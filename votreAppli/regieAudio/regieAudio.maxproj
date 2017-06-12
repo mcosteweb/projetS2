@@ -2,8 +2,8 @@
 	"name" : "regieAudio",
 	"version" : 1,
 	"creationdate" : -721919280,
-	"modificationdate" : -716073222,
-	"viewrect" : [ -13.0, 45.0, 300.0, 500.0 ],
+	"modificationdate" : -715182013,
+	"viewrect" : [ 56.0, 137.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,12 +16,12 @@
 				"toplevel" : 1
 			}
 ,
-			"syntheseSoustractive.maxpat" : 			{
+			"syntheseAudio.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"syntheseAudio.maxpat" : 			{
+			"syntheseSoustractive.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -40,21 +40,36 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"effetsAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"pedaleWahWah.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"mixageAudio.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"media" : 		{
-			"VHS.wav" : 			{
+			"BUREAU_BRUITAGE_CLAVIER_MAIN_PIANOTTE_01.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"BruitageClavier.wav" : 			{
+			"HUMAINS_CHIFFRES_ENUMERENT_NUMEROS_ALEATOIRE_01.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Decompte.wav" : 			{
+			"HUMAINS_MOT_DIT_VHS_01.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}

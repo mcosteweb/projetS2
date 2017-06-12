@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 820.0, 321.0, 727.0, 486.0 ],
+		"rect" : [ 813.0, 325.0, 727.0, 486.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -56,7 +56,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 273.0, 63.0, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -108,7 +108,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "signal" ],
 					"patching_rect" : [ 213.5, 63.0, 30.0, 30.0 ],
 					"style" : ""
 				}
@@ -196,9 +196,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 161.0, 266.0, 219.0, 22.0 ],
+					"patching_rect" : [ 161.0, 266.0, 232.0, 22.0 ],
 					"style" : "",
-					"text" : "jit.net.send @ip 192.168.0.43 @port #1"
+					"text" : "jit.net.send @ip 192.168.0.37 @port #1"
 				}
 
 			}
